@@ -2,18 +2,18 @@
 
 Interests: 
 
-AI/Machine learning
-Cybersecurity
-BigO / time complexity
-The ethics of AI
-Data Structures (last term was great)
+- AI/Machine learning
+- Cybersecurity
+- BigO / time complexity
+- The ethics of AI
+- Data Structures (last term was great)
 
 
 
 Difficulties: 
 
-Naming variables 
-Recursion
-Cloud databases
-Planning out an idea before coding
-Organizing / structuring code 
+- Naming variables 
+- Recursion
+- Cloud databases
+- Planning out an idea before coding
+- Organizing / structuring code 
